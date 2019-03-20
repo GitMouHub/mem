@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 /* Ref:  http://www.w3schools.com/css/css_syntax.asp */
 
 body { /* General style rules for the body section */
 	background-color:black;
 	color: lightblue;
 	text-align: center;
+	font-family:'Raleway', sans-serif; 
+
 }
 
 h2{
@@ -26,7 +29,7 @@ h5 {
 }
 
 #div1 { /* Matches element with id=SimpleDiv */
-	background-color: gray;
+	background-color: #F4B1D1;
 
 	color: hotpink;
 
@@ -40,21 +43,31 @@ h5 {
 
 
 #div2 {
-	background-color: #CC1A54; */
+	background-color: #CC1A54;
 	margin: 5%;
 	padding: 6px;
 	float: left;
+	width: 20%
 }
 
 #div3 {
-	background-color: #F1FF88; */
+	background-color: #F1FF88;
 	margin: 5%;
 	padding: 6px;
 	float: right;
+	width: 20%
+}
+
+#div5 {
+	background-color: #F1FF88;
+	margin: 5%;
+	padding: 6px;
+	float: right;
+	width: 25%
 }
 
 #div4 {
-	background-color: #D307FF; */
+	background-color: #D307FF;
 	margin: 5%;
 	padding: 6px;
 	clear: both;
