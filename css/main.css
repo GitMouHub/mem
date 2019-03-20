@@ -5,7 +5,7 @@ body { /* General style rules for the body section */
 	background-color:black;
 	color: lightblue;
 	text-align: center;
-	font-family:'Raleway', sans-serif; 
+	font-family:'Raleway', sans-serif;
 
 }
 
@@ -46,8 +46,7 @@ h5 {
 	background-color: #CC1A54;
 	margin: 5%;
 	padding: 6px;
-	float: left;
-	width: 20%
+	/*float: left;*/
 }
 
 #div3 {
@@ -62,13 +61,12 @@ h5 {
 	background-color: #F1FF88;
 	margin: 5%;
 	padding: 6px;
-	float: right;
-	width: 25%
+	/*float: right;*/
 }
 
 #div4 {
 	background-color: #D307FF;
 	margin: 5%;
 	padding: 6px;
-	clear: both;
+	/*clear: both;*/
 }
