@@ -43,19 +43,19 @@ h5 {
 	background-color: #CC1A54; */
 	margin: 5%;
 	padding: 6px;
-	float: left;
+	/*float: left;*/
 }
 
 #div3 {
 	background-color: #F1FF88; */
 	margin: 5%;
 	padding: 6px;
-	float: right;
+	/*float: right;*/
 }
 
 #div4 {
 	background-color: #D307FF; */
 	margin: 5%;
 	padding: 6px;
-	clear: both;
+	/*clear: both;*/
 }
