@@ -36,7 +36,11 @@ h5 {
 
 	border-style: solid groove;
   border-width: 5px;
+<<<<<<< HEAD
 	border-color: #F1FF88;
+=======
+	border-color: #914B2E;
+>>>>>>> b027c007757e25d88da8f429515ecc8ee2a8062d
 	margin: 5%;
 	padding: 6px;
 }
