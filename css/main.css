@@ -3,7 +3,7 @@
 
 body { /* General style rules for the body section */
 	background-color:#CC7011;
-	color: #753113;
+	color: #CC5621;
 	text-align: center;
 	font-family:'Raleway', sans-serif;
 
@@ -29,18 +29,14 @@ h5 {
 }
 
 #div1 { /* Matches element with id=SimpleDiv */
-	background-color: #E8BD41;
+	background-color: #F4B1D1;
 
-	color: #753113;
+	color: hotpink;
 
 
 	border-style: solid groove;
   border-width: 5px;
-<<<<<<< HEAD
-	border-color: #F1FF88;
-=======
-	border-color: #914B2E;
->>>>>>> b027c007757e25d88da8f429515ecc8ee2a8062d
+	border-color: green;
 	margin: 5%;
 	padding: 6px;
 }
