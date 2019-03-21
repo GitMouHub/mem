@@ -29,14 +29,14 @@ h5 {
 }
 
 #div1 { /* Matches element with id=SimpleDiv */
-	background-color: #F4B1D1;
+	background-color: #E8C86E;
 
-	color: hotpink;
+	color: #753113;
 
 
 	border-style: solid groove;
   border-width: 5px;
-	border-color: green;
+	border-color: #F1FF88;
 	margin: 5%;
 	padding: 6px;
 }
