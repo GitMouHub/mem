@@ -15,17 +15,17 @@ h2{
 
 h3 { /* Matches elements with h3 tag */
 	color: white;
-	text-decoration: line-through;
+	/*text-decoration: line-through;*/
 }
 
 h4 {
 	color: brown;
-	text-decoration: underline;
+	/*text-decoration: underline;*/
 }
 
 h5 {
 	color: yellow;
-	text-decoration: overline;
+	/*text-decoration: overline;*/
 }
 
 #div1 { /* Matches element with id=SimpleDiv */
