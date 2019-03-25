@@ -70,3 +70,50 @@ h5 {
 	padding: 6px;
 	/*clear: both;*/
 }
+
+
+#div6 {
+  color: #fff;
+  text-shadow: 0 0 15px rgba(255, 255, 255, .5),
+               0 0 30px rgba(255, 255, 255, .5),
+               0 0 40px rgba(52, 152, 219, 1),
+               0 0 50px rgba(52, 152, 219, 1),
+               0 0 60px rgba(52, 152, 219, 1),
+               0 0 70px rgba(52, 152, 219, 1);
+
+}
+
+#div7 {
+	background-color: black;
+
+	color: white;
+	text-shadow: 0 0 15px rgba(255, 255, 255, .5),
+							 0 0 30px rgba(255, 255, 255, .5),
+							 0 0 40px rgba(255, 255, 0, 1),
+							 0 0 50px rgba(255, 255, 0, 1),
+							 0 0 60px rgba(255, 255, 0, 1),
+							 0 0 70px rgba(255, 255, 0, 1);
+
+	  margin: 10%;
+		border-style: solid groove;
+	  border-width: 5px;
+		border-color: white;
+		padding: 50px;
+}
+
+#div8 {
+  color: #fff;
+  text-shadow: 0 0 15px rgba(255, 255, 255, .5),
+               0 0 30px rgba(255, 255, 255, .5),
+               0 0 40px rgba(52, 152, 219, 1),
+               0 0 50px rgba(52, 152, 219, 1),
+               0 0 60px rgba(52, 152, 219, 1),
+               0 0 70px rgba(52, 152, 219, 1);
+
+							 margin: 10%;
+							 border-style: solid groove;
+							 border-width: 5px;
+							 border-color: white;
+							 padding: 50px;
+
+}
